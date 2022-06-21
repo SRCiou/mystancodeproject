@@ -1,2 +1,2 @@
-# mystancodeproject
+# MystanCodeProject
 OOP, recursion, data structure
